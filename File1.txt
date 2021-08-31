@@ -17,3 +17,6 @@ Change 5-> to work on CR1.
 Change 6-> For stash in-prograss work/commit.
 
 Change 9-> CR2 to check fetch when change is done by teammate on remote
+
+Change 10-> for WI9 on local master to check fetch before something.
+
