@@ -3,3 +3,5 @@ Adding the 2nd file
 diff check
 
 Check- To see the push
+
+Check pull from remote server to local
