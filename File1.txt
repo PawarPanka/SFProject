@@ -14,4 +14,6 @@ Change 4-> for WI5 by team members.
 
 Change 5-> to work on CR1.
 
-Change 6-> for stash in-prograss work/commit
+Change 6-> For stash in-prograss work/commit.
+
+Change 9-> CR2 to check fetch when change is done by teammate on remote
